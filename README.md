@@ -3,7 +3,7 @@
 **Student:** Utembayeva Karakat  
 **Group:** SE-2535  
 **Domain:** Car Rental (same variant as Assignment 4)  
-**GitHub repository:** <https://github.com/YOUR-USERNAME/car-rental-strategy> *(replace YOUR-USERNAME with the real account)*
+**GitHub repository:** <https://github.com/karakat111/car-rental-strategy.git> *(replace YOUR-USERNAME with the real account)*
 
 ## 1. Overview
 
